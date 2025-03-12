@@ -1,10 +1,10 @@
-# Hi there! 👋 I'm Haydar Farhat
+# Hi there! 👋 I'm Haidar Farhat
 
 ## 🚀 About Me
 
 🎓 **Computer Science Graduate** | 💻 **Full-Stack Developer** | 🎮 **Tech & Gaming Enthusiast**
 
-I'm a passionate developer with experience in **web development, system administration, and game optimization**. I love working on projects that solve real-world problems and enjoy exploring new technologies to enhance my skills.
+I'm a passionate developer with experience in **full stack web development, system administration, game optimization and general TINCKERING**. I love working on projects that solve real-world problems and enjoy exploring new technologies to enhance my skills.
 
 ---
 
