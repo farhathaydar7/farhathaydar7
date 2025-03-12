@@ -45,8 +45,8 @@ I'm a passionate developer with experience in **full stack web development, syst
 ---
 
 ## 🤝 Connect with Me
-- **LinkedIn**: [linkedin.com/in/haydarfarhat](#)
-- **Email**: [hairdar.a.farhat@proton.me](#)
+- **LinkedIn**: [linkedin.com/in/haydar-farhat7](#)
+- **Email**: [hairdar.a.farhat@gmail.com](#)
 
 ---
 
