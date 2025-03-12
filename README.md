@@ -12,8 +12,8 @@ I'm a passionate developer with experience in **full stack web development, syst
 
 ### 💻 Programming Languages
 - JavaScript (ES6+), TypeScript
-- PHP, Python, Java
-- C, C++
+- PHP, Python, Java , Flutter
+- C, C++ , C# , Rust , Bash
 
 ### 🖥️ Web Development
 - Frontend: **Angular, React, Tailwind CSS**
