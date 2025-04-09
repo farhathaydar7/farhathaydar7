@@ -23,6 +23,7 @@ I'm a passionate developer with experience in **full stack web development, syst
 
 ### 📱 Mobile Development
 - **React Native** (for cross-platform apps)
+- **Flutter** (for cross-platform apps)
 
 ### 🔧 DevOps & System Admin
 - Linux (Arch, Ubuntu, OpenWrt, Mint)
